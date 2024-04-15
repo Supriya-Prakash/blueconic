@@ -1,0 +1,6 @@
+blueconic/viewsessions/pageobjects/HomePage.class
+blueconic/viewsessions/pageobjects/ViewSessionsPage.class
+blueconic/viewsessions/pageobjects/SubmitSessionPage.class
+blueconic/viewsessions/App.class
+blueconic/viewsessions/pageobjects/ConferencePage.class
+blueconic/viewsessions/pageobjects/WebDriverManager.class
